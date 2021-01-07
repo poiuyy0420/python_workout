@@ -1,6 +1,6 @@
 # Section13-2
 # 업그레이드 타이핑 게임 제작
-# 타이핑 게임 제작 및 기본 완성
+# 타이핑 게임 제작 및 기본 완성 
 
 import random
 import time
